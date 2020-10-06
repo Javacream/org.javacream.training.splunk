@@ -33,4 +33,25 @@
   * Typische Einsatzbereiche
   * Vorstellung von Praxisbeispielen, die den Mehrwert von Splunk in verschiedenen Szenarien belegen
 
-   
+## Anmeldung
+
+* RDP-Anmeldung unter https://rdweb.integrata-cegos.de/rdweb/webclient/
+* Jeweils ein Remote Rechner pro Anwender
+  * Benutzer: student_hh030X@integrata-cegos.de (X = 2 - 16)
+  * Das Password für die RDP-Session wird im Seminar mitgeteilt
+  * Zuordnung:
+    * Sem... = 2
+    * Kir... = 3
+    * Bet... = 4
+    * Gul... = 5
+    * Sch... = 6
+    * Lau... = 7
+    * Pri... = 8
+* Nach der Anmeldung die Work Ressource win__hh03* auswählen
+  * Benutzer: W8Admin
+  * Das Password für die Windows wird im Seminar mitgeteilt
+* Splunk
+  * In Chrome oder Firefox http://10.16.3.57:8000
+  * Benutzer: training
+  * Das Password für Splunk wird im Seminar mitgeteilt
+  
