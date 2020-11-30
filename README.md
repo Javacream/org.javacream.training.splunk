@@ -9,7 +9,7 @@
     *  Branch e.on_28.10.2020
     
 * Digitales Flipchart
-  * https://docs.google.com/presentation/d/11kwd5kyqYvr2IfpEqG6ZLSZOgyaWAvm0jCB0Zc2SbEc/edit?usp=sharing
+  * https://docs.google.com/presentation/d/1IMDuVNPOi3NHKngBmIGAIC6_Wqj_Rs6_j1sFfGCZhjQ/edit?usp=sharing
 
 * Seminarzeiten
   * 4 Unterrichtseinheiten mit jeweils 90 Minuten
@@ -37,15 +37,15 @@
 
   * In Chrome oder Firefox http://h2908727.stratoserver.net:8000
   * Benutzer: teilnehmer + Nummer
-    * Web... = 1
-    * Küh... = 2
-    * Böl... = 3
-    * Str... = 4
-    * Thi... = 5
-    * Kas... = 6
-    * Leu... = 7
-    * Bac... = 8
-    * Tko... = 9
-    * Loe... = 10
+    * Rau... = 1
+    * Dol... = 2
+    * Pri... = 3
+    * Gör... = 4
+    * Mal... = 5
+    * Erl... = 6
+    * Poi... = 7
+    * Zin... = 8
+    * Rad... = 9
+    * Sch... = 10
   * Das Password für Splunk wird im Seminar mitgeteilt
   
