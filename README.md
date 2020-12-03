@@ -44,7 +44,7 @@
     * Mal... = 5
     * Erl... = 6
     * Poi... = 7
-    * Zin... = 8
+    * Bac... = 8
     * Rad... = 9
     * Sch... = 10
   * Das Password für Splunk wird im Seminar mitgeteilt
