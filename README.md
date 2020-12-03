@@ -1,12 +1,12 @@
 # org.javacream.training.splunk
 
-## Durchführung des Seminars vom 28.10.2020
+## Durchführung des Seminars vom 3.12.2020
 
 * Referent: Rainer Sawitzki, eMail: training@rainer-sawitzki.de
 
 * Beispiele
   * https://github.com/Javacream/org.javacream.training.splunk
-    *  Branch e.on_28.10.2020
+    *  Branch e.on_3.12.2020
     
 * Digitales Flipchart
   * https://docs.google.com/presentation/d/1IMDuVNPOi3NHKngBmIGAIC6_Wqj_Rs6_j1sFfGCZhjQ/edit?usp=sharing
