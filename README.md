@@ -1,6 +1,6 @@
 # org.javacream.training.splunk
 
-## Durchführung des Seminars vom 22.10.2021
+## Durchführung des Seminars
 
 * Referent: Rainer Sawitzki, eMail: training@rainer-sawitzki.de
 
