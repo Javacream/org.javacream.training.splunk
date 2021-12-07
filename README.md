@@ -6,10 +6,10 @@
 
 * Beispiele
   * https://github.com/Javacream/org.javacream.training.splunk
-    *  Branch e.on_22.10.2021
+    *  Branch e.on_8.12.2021
     
 * Digitales Flipchart
-  * https://docs.google.com/presentation/d/17PFcfTIFwt8QcV5qFknWW9cMiXJ6OIbKbuO6NSf0Xyw/edit?usp=sharing
+  * https://docs.google.com/presentation/d/1VlbQ-HONFeh4Sb_bx6kiFtMxDqOKW_pAXZ_d7VRhKwE/edit?usp=sharing
 
 * Seminarzeiten
   * 4 Unterrichtseinheiten mit jeweils 90 Minuten
